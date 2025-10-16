@@ -1,1 +1,1 @@
-# tradingview-binance-bot
+# tradingview-binance-bot1
